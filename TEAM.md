@@ -16,7 +16,7 @@ Danh sách trên phải khớp dòng tiêu đề của `README.md` (đã đổi 
 
 ## Phân công (mỗi người làm gì ngoài phần gán nhãn)
 
-Mọi người coi pipeline trong[GUIDE.md](GUIDE.md), từ Pha 0 đến Pha 6
+Mọi người coi pipeline trong [GUIDE.md](GUIDE.md), từ Pha 0 đến Pha 6
 
 | MSHV | Phụ trách thêm |
 |---|---|
