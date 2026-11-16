@@ -1,15 +1,16 @@
 # Thông tin nhóm
 
-- Tên nhóm:
-- Repo bài nộp (URL):
+- Tên nhóm: New Life
+- Repo bài nộp (URL): https://github.com/JakeNguyen99/K5-L23-DAY07-New_Life-GuidelineQC
 - Commit chốt bài (hash):
-- Số thành viên: …  → số người gán mỗi ảnh (K): …
+- Số thành viên: 4  → số người gán mỗi ảnh (K): 2
 
 | STT | MSHV | Họ và tên | Lớp (L2 / L3 / khác) | Tài khoản GitHub |
 |---|---|---|---|---|
-| 1 | | | | |
-| 2 | | | | |
-| 3 | | | | |
+| 1 | 2A202603035 | Nguyễn Việt Quân | L2 | JakeNguyen99 |
+| 2 | 2A202603055 | Nguyễn Duy Khánh | L2 | henrykhanh-ai |
+| 3 | 2A202603094 | Nguyễn Thị Thúy An | L2 | nguyenthithuyan091005-svg |
+| 4 | 2A202603070 | Lê Ngọc Bích Loan | L2 | panii273 |
 
 Danh sách trên phải khớp dòng tiêu đề của `README.md` (đã đổi theo [SUBMISSION.md](SUBMISSION.md)) và `--members` đã dùng ở `scripts/split_assign.py`.
 
