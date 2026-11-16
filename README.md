@@ -1,4 +1,4 @@
-# Day 07 Lab — Nhóm New Life: 202603035 - Nguyễn Việt Quân, 202603055 - Nguyễn Duy Khánh, 202603094 - Nguyễn Thị Thúy An, 202603070 - Lê Ngọc Bích Loan
+# Day 07 Lab  — Guideline, Taxonomy & QC
 
 **Nhóm 2–5 người · 4 giờ · 40 ảnh đường phố · gán box bằng CVAT**
 
