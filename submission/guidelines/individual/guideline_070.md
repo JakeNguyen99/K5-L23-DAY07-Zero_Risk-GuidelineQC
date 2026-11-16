@@ -1,8 +1,8 @@
-# Guideline gán nhãn — v0.1 (cá nhân) — Loan
+# Guideline gán nhãn — v0.1 (cá nhân) — 070
 
-- Mã thành viên: <điền 3 chữ số>
+- Mã thành viên: 070
 - Phiên bản: v0.1 (cá nhân)
-- Ngày: <điền>
+- Ngày: <16>
 
 ## 1. Mục tiêu
 
