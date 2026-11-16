@@ -1,9 +1,9 @@
 # Thông tin nhóm
 
-- Tên nhóm:
+- Tên nhóm: Zero Risk
 - Mã thành viên (ba chữ số): 035, 052, 055, 036, 070
-- Người điều phối:
-- Người review bản cuối:
+- Người điều phối: 035
+- Người review bản cuối: 035
 - Commit chốt bài (điền ở kênh nộp sau khi commit):
 
 ## Kết quả tóm tắt (điền cuối bài)

@@ -1,4 +1,4 @@
-# Day 07 Lab  — Guideline, Taxonomy & QC
+# Day 07 Lab — Nhóm Zero Risk (mã thành viên: 035, 052, 055, 036, 070)
 
 **Nhóm 2–5 người · 4 giờ · 40 ảnh đường phố · gán box bằng CVAT**
 
