@@ -1,6 +1,5 @@
 # Guideline gán nhãn — v0 — 035
 
-> Bản cá nhân của thành viên 035. Tự hoàn thiện sau khi khảo sát đủ 40 ảnh.
 
 - Phiên bản: v0
 - Ngày: 2026-11-16
@@ -52,7 +51,7 @@ Mỗi thuộc tính: tên, **các mức cố định**, nghĩa từng mức, **n
 | img_023 | Xe xích lô| Không gán nhãn| Guideline không đề cập |
 | img_024 | Xe mô hình| Không gán nhãn| Guideline không đề cập |
 
-Nếu chưa chốt, đánh dấu `can_review` trên box hoặc ghi vấn đề cấp ảnh. Dùng mã quy tắc trong nhật ký QC.
+
 
 ## 5. QC và phiên bản
 Ngưỡng QC áp dụng, ai quyết ca mơ hồ, lịch sử thay đổi:
