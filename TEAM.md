@@ -16,12 +16,14 @@ Danh sách trên phải khớp dòng tiêu đề của `README.md` (đã đổi 
 
 ## Phân công (mỗi người làm gì ngoài phần gán nhãn)
 
+Mọi người coi pipeline trong[GUIDE.md](GUIDE.md), từ Pha 0 đến Pha 6
+
 | MSHV | Phụ trách thêm |
 |---|---|
-| 2A202603035 | Điều phối Pha 2: tổng hợp guideline v1.0, cập nhật taxonomy và sinh nhãn CVAT; các quyết định do cả nhóm chốt. |
+| 2A202603070 | Điều phối Pha 2: tổng hợp guideline v1.0, cập nhật taxonomy và sinh nhãn CVAT; các quyết định do cả nhóm chốt. |
 | 2A202603055 | Chạy chia ảnh ở Pha 3 và commit bảng assignment. |
 | 2A202603094 | Chạy so sánh IAA và tạo danh sách/ảnh ca cần calibration ở Pha 4. |
-| 2A202603070 | Điều phối Pha 6: chuẩn bị QC mẫu, gom kết quả review và hoàn thiện báo cáo/checklist; cả nhóm cùng review. |
+| 2A202603035 | Điều phối Pha 6: chuẩn bị QC mẫu, gom kết quả review và hoàn thiện báo cáo/checklist; cả nhóm cùng review. |
 
 ## Kết quả tóm tắt (điền cuối bài)
 
