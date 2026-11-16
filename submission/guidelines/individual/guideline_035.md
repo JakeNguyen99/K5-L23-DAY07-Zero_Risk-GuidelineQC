@@ -11,7 +11,7 @@ Nhãn dùng để huấn luyện mô hình phát hiện **người và phương 
 
 ## 2. Lớp và thuộc tính
 ### Lớp
-| Lớp | Định nghĩa (một câu) | Ví dụ | Phản ví dụ / dễ nhầm với |
+| Lớp | Định nghĩa (một câu) |
 |---|---|---|---|
 | `car` | Ô tô con. |
 | `truck` | Xe tải. |
@@ -38,7 +38,7 @@ Mỗi thuộc tính: tên, **các mức cố định**, nghĩa từng mức, **n
 |---|---|---|---|
 | img_004 | Xe giống motorcycle | Không gán nhãn | Xe có thể thuộc một class khác hoặc không thuộc guideline |
 | img_011 | Xe giống motorcycle | Không gán nhãn | Xe này có thể chỉ là mẫu để chưng |
-| img_014 | Xe và người bị nhòe | Không gán nhãn | |
+| img_014 | Xe và người bị nhòe | Không gán nhãn | Có thể bị lẫn với class khác|
 | img_013 | `car` ở xa và mờ| Không gán nhãn | Guideline không đề cập vật phải nhìn rõ bao nhiêu %|
 | img_015 | Xe bị nhòe | Không gán nhãn | Guideline không đề cập vật phải nhìn rõ bao nhiêu % |
 | img_016 | Không rõ xe thuộc class nào | Không gán nhãn | Guideline không đề cập xe này thuộc class nào|
