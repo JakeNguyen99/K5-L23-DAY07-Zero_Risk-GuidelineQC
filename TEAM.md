@@ -7,10 +7,10 @@
 
 | STT | MSHV | Họ và tên | Lớp (L2 / L3 / khác) | Tài khoản GitHub |
 |---|---|---|---|---|
-| 1 | 2A202603035 | Nguyễn Việt Quân | L2 | JakeNguyen99 |
-| 2 | 2A202603055 | Nguyễn Duy Khánh | L2 | henrykhanh-ai |
-| 3 | 2A202603094 | Nguyễn Thị Thúy An | L2 | nguyenthithuyan091005-svg |
-| 4 | 2A202603070 | Lê Ngọc Bích Loan | L2 | panii273 |
+| 1 | 202603035 | Nguyễn Việt Quân | L2 | JakeNguyen99 |
+| 2 | 202603055 | Nguyễn Duy Khánh | L2 | henrykhanh-ai |
+| 3 | 202603094 | Nguyễn Thị Thúy An | L2 | nguyenthithuyan091005-svg |
+| 4 | 202603070 | Lê Ngọc Bích Loan | L2 | panii273 |
 
 Danh sách trên phải khớp dòng tiêu đề của `README.md` (đã đổi theo [SUBMISSION.md](SUBMISSION.md)) và `--members` đã dùng ở `scripts/split_assign.py`.
 
@@ -20,10 +20,10 @@ Mọi người coi pipeline trong [GUIDE.md](GUIDE.md), từ Pha 0 đến Pha 6
 
 | MSHV | Phụ trách thêm |
 |---|---|
-| 2A202603070 | Điều phối Pha 2: tổng hợp guideline v1.0, cập nhật taxonomy và sinh nhãn CVAT; các quyết định do cả nhóm chốt. |
-| 2A202603055 | Chạy chia ảnh ở Pha 3 và commit bảng assignment. |
-| 2A202603094 | Chạy so sánh IAA và tạo danh sách/ảnh ca cần calibration ở Pha 4. |
-| 2A202603035 | Điều phối Pha 6: chuẩn bị QC mẫu, gom kết quả review và hoàn thiện báo cáo/checklist; cả nhóm cùng review. |
+| 202603070 | Điều phối Pha 2: tổng hợp guideline v1.0, cập nhật taxonomy và sinh nhãn CVAT; các quyết định do cả nhóm chốt. |
+| 202603055 | Chạy chia ảnh ở Pha 3 và commit bảng assignment. |
+| 202603094 | Chạy so sánh IAA và tạo danh sách/ảnh ca cần calibration ở Pha 4. |
+| 202603035 | Điều phối Pha 6: chuẩn bị QC mẫu, gom kết quả review và hoàn thiện báo cáo/checklist; cả nhóm cùng review. |
 
 ## Kết quả tóm tắt (điền cuối bài)
 
