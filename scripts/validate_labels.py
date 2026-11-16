@@ -17,7 +17,7 @@ from pathlib import Path
 
 from common import IMAGES_DIR, ROOT, Taxonomy, list_label_files, load_assignment, load_coco, load_taxonomy, rel
 
-NAME_RE = re.compile(r"^(\d+)_([A-Za-z0-9_\-]+)\.json$")
+NAME_RE = re.compile(r"^([A-Za-z0-9]+)_([A-Za-z0-9_\-]+)\.json$")
 
 
 def validate(path: Path, tax: Taxonomy, assignment) -> tuple:
