@@ -20,8 +20,8 @@ Cả nhóm vẫn tự viết guideline cá nhân và gán nhãn độc lập.
 
 ## Kết quả tóm tắt (điền cuối bài)
 
-- Lượt gán hoàn tất / được giao: 
-- IAA trước calibration (kèm mẫu số):
+- Lượt gán hoàn tất / được giao: 80 / 80 lượt (40 ảnh × 2 người/ảnh; 4 thành viên gán: 035, 036, 052, 055)
+- IAA trước calibration (kèm mẫu số): IoU TB 0.775 (260 cặp ghép, chưa đạt ngưỡng 0.85); class agreement 96.5% (251/260, đạt ngưỡng 95%)
 - Số ảnh phải calibration: 33 / 40
 - Vòng QC và số ảnh đã duyệt / cả lô: Vòng 1, 40 / 40 ảnh đã duyệt
 - Tỉ lệ lỗi: 0.0% theo ảnh (0/40), 0.0% theo đối tượng (0/692)
