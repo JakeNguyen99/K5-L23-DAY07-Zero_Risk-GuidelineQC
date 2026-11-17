@@ -12,7 +12,7 @@ Cả nhóm vẫn tự viết guideline cá nhân và gán nhãn độc lập.
 
 | Mã | Vai trò phụ |
 |---|---|
-| 035 | Điều phối tiến độ, tổng hợp QC và review bản cuối; không tự duyệt nhãn mình đã sửa. |
+| 035 | Điều phối tiến độ, tổng hợp QC và review bản cuối. |
 | 052 | Ghi quyết định calibration và điều phối tạo nhãn cuối ở Pha 5. |
 | 055 | Chạy chia ảnh Pha 3 và kiểm tra bảng assignment. |
 | 036 | Chạy so sánh IAA và tổng hợp các ca bất đồng ở Pha 4. |
