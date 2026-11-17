@@ -24,5 +24,5 @@ Cả nhóm vẫn tự viết guideline cá nhân và gán nhãn độc lập.
 - IAA trước calibration (kèm mẫu số):
 - Số ảnh phải calibration: 33 / 40
 - Vòng QC và số ảnh đã duyệt / cả lô: Vòng 1, 40 / 40 ảnh đã duyệt
-- Tỉ lệ lỗi: … % theo ảnh (…/…), … % theo đối tượng (…/…)
-- **Quyết định** (Release / Hold / Rework) và lý do một dòng:
+- Tỉ lệ lỗi: 0.0% theo ảnh (0/40), 0.0% theo đối tượng (0/692)
+- **Quyết định:** Release — Đạt toàn bộ ngưỡng kiểm định QC của lô sau khi hiệu chỉnh nhãn và kiểm tra toàn vẹn hồ sơ bàn giao.
